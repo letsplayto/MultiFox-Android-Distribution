@@ -14,6 +14,15 @@ The public channel intentionally contains only distributable, signed Android rel
 
 ## Published releases
 
+### [MultiFox Android 0.4.8 — Public Beta](https://github.com/letsplayto/MultiFox-Android-Distribution/releases/tag/android-v0.4.8)
+
+- Published: 2026-10-08T21:10:14Z
+- Signed APK: [MultiFox-Android-release.apk](https://github.com/letsplayto/MultiFox-Android-Distribution/releases/download/android-v0.4.8/MultiFox-Android-release.apk)
+- Debug APK: [MultiFox-Android-debug.apk](https://github.com/letsplayto/MultiFox-Android-Distribution/releases/download/android-v0.4.8/MultiFox-Android-debug.apk)
+- Checksums: [SHA256SUMS.txt](https://github.com/letsplayto/MultiFox-Android-Distribution/releases/download/android-v0.4.8/SHA256SUMS.txt)
+
+Official MultiFox Android distribution artifacts. The source repository remains private.
+
 ### [MultiFox Android 0.4.7 — Public Beta](https://github.com/letsplayto/MultiFox-Android-Distribution/releases/tag/android-v0.4.7)
 
 - Published: 2026-10-08T20:50:50Z
